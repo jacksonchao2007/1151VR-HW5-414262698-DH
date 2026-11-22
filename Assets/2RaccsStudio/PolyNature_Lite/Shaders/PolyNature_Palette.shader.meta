@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d824028c1bcd1174a995fec6fa731c12
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 417156
+  packageName: Poly Nature Lite
+  packageVersion: 1.0.0
+  assetPath: Assets/2RaccsStudio/PolyNature_Lite/Shaders/PolyNature_Palette.shader
+  uploadId: 1019910
